@@ -6,7 +6,6 @@ branches:
     - main
 install:
   - npm install
-  - chmod +x ./node_modules/.bin/jest  
   - chmod +x ./node_modules/.bin/eslint 
 
 build: off
